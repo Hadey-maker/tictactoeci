@@ -1,5 +1,0 @@
-if(EXISTS "D:/testprj/build/minimax_tests[1]_tests.cmake")
-  include("D:/testprj/build/minimax_tests[1]_tests.cmake")
-else()
-  add_test(minimax_tests_NOT_BUILT minimax_tests_NOT_BUILT)
-endif()
