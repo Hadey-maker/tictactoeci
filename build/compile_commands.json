@@ -1,0 +1,110 @@
+[
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/board_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\board_tests.dir\\tests\\test_board.cpp.obj -c D:\\testprj\\tests\\test_board.cpp",
+  "file": "D:/testprj/tests/test_board.cpp",
+  "output": "CMakeFiles/board_tests.dir/tests/test_board.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/board_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\board_tests.dir\\src\\Board.cpp.obj -c D:\\testprj\\src\\Board.cpp",
+  "file": "D:/testprj/src/Board.cpp",
+  "output": "CMakeFiles/board_tests.dir/src/Board.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/game_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\game_tests.dir\\src\\GameLogic.cpp.obj -c D:\\testprj\\src\\GameLogic.cpp",
+  "file": "D:/testprj/src/GameLogic.cpp",
+  "output": "CMakeFiles/game_tests.dir/src/GameLogic.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/game_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\game_tests.dir\\src\\Board.cpp.obj -c D:\\testprj\\src\\Board.cpp",
+  "file": "D:/testprj/src/Board.cpp",
+  "output": "CMakeFiles/game_tests.dir/src/Board.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/game_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\game_tests.dir\\tests\\test_game.cpp.obj -c D:\\testprj\\tests\\test_game.cpp",
+  "file": "D:/testprj/tests/test_game.cpp",
+  "output": "CMakeFiles/game_tests.dir/tests/test_game.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minimax_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\minimax_tests.dir\\src\\MiniMaxAgent.cpp.obj -c D:\\testprj\\src\\MiniMaxAgent.cpp",
+  "file": "D:/testprj/src/MiniMaxAgent.cpp",
+  "output": "CMakeFiles/minimax_tests.dir/src/MiniMaxAgent.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minimax_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\minimax_tests.dir\\src\\Board.cpp.obj -c D:\\testprj\\src\\Board.cpp",
+  "file": "D:/testprj/src/Board.cpp",
+  "output": "CMakeFiles/minimax_tests.dir/src/Board.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minimax_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\minimax_tests.dir\\tests\\test_minimaxagent.cpp.obj -c D:\\testprj\\tests\\test_minimaxagent.cpp",
+  "file": "D:/testprj/tests/test_minimaxagent.cpp",
+  "output": "CMakeFiles/minimax_tests.dir/tests/test_minimaxagent.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/playerhistory_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\playerhistory_tests.dir\\src\\PlayerHistory.cpp.obj -c D:\\testprj\\src\\PlayerHistory.cpp",
+  "file": "D:/testprj/src/PlayerHistory.cpp",
+  "output": "CMakeFiles/playerhistory_tests.dir/src/PlayerHistory.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/playerhistory_tests.dir/includes_CXX.rsp -g -o CMakeFiles\\playerhistory_tests.dir\\tests\\test_playerhistory.cpp.obj -c D:\\testprj\\tests\\test_playerhistory.cpp",
+  "file": "D:/testprj/tests/test_playerhistory.cpp",
+  "output": "CMakeFiles/playerhistory_tests.dir/tests/test_playerhistory.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/performance_test.dir/includes_CXX.rsp -g -o CMakeFiles\\performance_test.dir\\src\\Board.cpp.obj -c D:\\testprj\\src\\Board.cpp",
+  "file": "D:/testprj/src/Board.cpp",
+  "output": "CMakeFiles/performance_test.dir/src/Board.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/performance_test.dir/includes_CXX.rsp -g -o CMakeFiles\\performance_test.dir\\src\\MiniMaxAgent.cpp.obj -c D:\\testprj\\src\\MiniMaxAgent.cpp",
+  "file": "D:/testprj/src/MiniMaxAgent.cpp",
+  "output": "CMakeFiles/performance_test.dir/src/MiniMaxAgent.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/performance_test.dir/includes_CXX.rsp -g -o CMakeFiles\\performance_test.dir\\src\\PlayerHistory.cpp.obj -c D:\\testprj\\src\\PlayerHistory.cpp",
+  "file": "D:/testprj/src/PlayerHistory.cpp",
+  "output": "CMakeFiles/performance_test.dir/src/PlayerHistory.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/performance_test.dir/includes_CXX.rsp -g -o CMakeFiles\\performance_test.dir\\tests\\performance_test.cpp.obj -c D:\\testprj\\tests\\performance_test.cpp",
+  "file": "D:/testprj/tests/performance_test.cpp",
+  "output": "CMakeFiles/performance_test.dir/tests/performance_test.cpp.obj"
+},
+{
+  "directory": "D:/testprj/build/lib/googletest/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\testprj\\lib\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "D:/testprj/lib/googletest/googlemock/src/gmock-all.cc",
+  "output": "lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "D:/testprj/build/lib/googletest/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\testprj\\lib\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "D:/testprj/lib/googletest/googlemock/src/gmock_main.cc",
+  "output": "lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "D:/testprj/build/lib/googletest/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\testprj\\lib\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "D:/testprj/lib/googletest/googletest/src/gtest-all.cc",
+  "output": "lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "D:/testprj/build/lib/googletest/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\testprj\\lib\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "D:/testprj/lib/googletest/googletest/src/gtest_main.cc",
+  "output": "lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

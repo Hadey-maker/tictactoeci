@@ -1,0 +1,5 @@
+if(EXISTS "D:/testprj/build/board_tests[1]_tests.cmake")
+  include("D:/testprj/build/board_tests[1]_tests.cmake")
+else()
+  add_test(board_tests_NOT_BUILT board_tests_NOT_BUILT)
+endif()

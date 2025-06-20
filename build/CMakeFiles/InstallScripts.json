@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/testprj/build/cmake_install.cmake",
+		"D:/testprj/build/lib/googletest/cmake_install.cmake",
+		"D:/testprj/build/lib/googletest/googlemock/cmake_install.cmake",
+		"D:/testprj/build/lib/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
